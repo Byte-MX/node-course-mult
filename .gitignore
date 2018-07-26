@@ -1,0 +1,16 @@
+
+node_modules/
+
+tablas/*.txt
+
+multiplicar/multiplicar.js
+multiplicar/multiplicar2.js
+multiplicar/multiplicar3.js
+
+01-app.js
+01-app-fs.js
+02-app-import.js
+03-app-cmd-line.js
+04-app-yargs.js
+04-app-yargs-opt.js
+05-app-yargs-opt.js
